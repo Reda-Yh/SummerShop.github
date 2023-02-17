@@ -1,0 +1,42 @@
+/* common classes */
+
+.position_relative {
+    position: relative;
+}
+
+.link {
+    text-decoration: none;
+} 
+
+
+/* nav */
+
+#navBar {
+    width: 100%;
+}
+
+.number_elem_in_cart {
+    position: absolute;
+    color: white;
+    right: 0;
+    height: 20px;
+    width: 20px;
+    border: 2px solid white;
+    top: -5px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 20px;
+}
+
+nav {
+    min-height: 10vh;
+}
+
+main {
+    min-height: 70vh;
+}
+
+footer {
+    min-height: 20vh;
+}
